@@ -8,8 +8,7 @@
 
 [![Github](https://img.shields.io/github/followers/mhmdao?label=Follow&style=social)](https://github.com/mhmdao)
 
-- Recent University graduate with a MSc in Sytems Science and Engineering, University of Ottawa
-- 2+ years of internship experience in data analytics
+- Recent University graduate with a MSc in Sytems Science and extensive experience in data analytics
 - Proficiency in Python libraries for data science (such as NumPy, Pandas, Seaborn, and Matplotlib)
 - Highly Skilled in Power BI and SQL queries to analyze data and create reports
 
