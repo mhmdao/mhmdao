@@ -8,8 +8,9 @@
 
 [![Github](https://img.shields.io/github/followers/mhmdao?label=Follow&style=social)](https://github.com/mhmdao)
 
-- Recent University graduate with a MSc in Sytems Science and extensive experience in data analytics
-- Proficiency in Python libraries for data science (such as NumPy, Pandas, Seaborn, and Matplotlib)
+- Data Scientist with experience in leveraging data to develop analytical insights for business decision making. Skilled in data analysis, machine learning, and statistical modeling to drive insights from complex datasets. Adept 
+  at programming in Python and SQL and utilizing various data visualization tools to communicate findings. 
+- Proficiency in Python libraries and frameworks for data science/ML (such as Sckit-Learn, NumPy, Pandas, Seaborn, and Matplotlib)
 - Highly Skilled in Power BI and SQL queries to analyze data and create reports
 
 
