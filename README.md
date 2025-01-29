@@ -11,7 +11,7 @@
 - Data Scientist with experience in leveraging data to develop analytical insights for business decision making. Skilled in data analysis, machine learning, and statistical modeling to drive insights from complex datasets. Adept 
   at programming in Python and SQL and utilizing various data visualization tools to communicate findings. 
 - Proficiency in Python libraries and frameworks for data science/ML (such as Sckit-Learn, NumPy, Pandas, Seaborn, and Matplotlib)
-- Highly Skilled in Power BI and SQL queries to analyze data and create reports
+- Highly Skilled in BI tools and SQL queries to analyze data and create reports
 
 
 ### 🖥 Skills
