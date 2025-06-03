@@ -7,11 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maolfati35@gmail.com)
 
 [![Github](https://img.shields.io/github/followers/mhmdao?label=Follow&style=social)](https://github.com/mhmdao)
-
-- Data Scientist with experience in leveraging data to develop analytical insights for business decision making. Skilled in data analysis, machine learning, and statistical modeling to drive insights from complex datasets. Adept 
-  at programming in Python and SQL and utilizing various data visualization tools to communicate findings. 
+- ML Engineer/Data Scientist with a MSc degree in Computer Science from the University of Ottawa
 - Proficiency in Python libraries and frameworks for data science/ML (such as Sckit-Learn, NumPy, Pandas, Seaborn, and Matplotlib)
-- Highly Skilled in BI tools and SQL queries to analyze data and create reports
+- Expertise in microservices architecture, containerization, AI/ML integration, API development, and DevOps practices. 
 
 
 ### 🖥 Skills
