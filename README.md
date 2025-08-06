@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/github/followers/mhmdao?label=Follow&style=social)](https://github.com/mhmdao)
 - ML Engineer/Data Scientist with a MSc degree in Computer Science from the University of Ottawa
-- Proficiency in Python libraries and frameworks for data science/ML (such as Sckit-Learn, NumPy, Pandas, Seaborn, and Matplotlib)
+- Proficiency in Python libraries and frameworks for data science/ML (such as Pytorch, Sckit-Learn, NumPy, Pandas, Seaborn, and Matplotlib)
 - Expertise in microservices architecture, containerization, AI/ML integration, API development, and DevOps practices. 
 
 
