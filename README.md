@@ -16,7 +16,7 @@
 ### 🖥 Skills
 
 - Python
-- Data Engineering
+- Machine Learning
 - Data Science
 - SQL
 - Power BI
